@@ -1,16 +1,13 @@
 # Help
 ## do what 
 * hehe
-- hehe
-1 haha
-1.2 heihei
  
-	
 > this is a ps
 [uninxhot](http://www.uninxhot.com)
-![oldboy](http://www.etiantian.com/static/assets/logo_small.png)
+![oldboy](https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/logo_white_fe6da1ec.png)
 	#!/bin/bash
-	while true
-	    do echo haha
-`#!/bin/bash`
+	
+`while true
+   do echo haha`
+ 
 `haha` `heihei`
